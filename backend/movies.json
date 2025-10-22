@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "name": "Tron: Legacy",
+    "logo": "/assets/posters/movie1.jpg",
+    "status": "available",
+    "streamURL": {
+      "fullscreen": "https://www.youtube.com/watch?v=P78pl1FUXfA",
+      "preview": "/assets/videos/preview.mp4"
+    }
+  },
+    {
+    "id": 2,
+    "name": "The Suicide Squad",
+    "logo": "/assets/posters/movie9.jpg",
+    "status": "available",
+    "streamURL": {
+      "fullscreen": "https://www.youtube.com/watch?v=eg5ciqQzmK0",
+      "preview": "/assets/videos/preview.mp4"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Peacemaker",
+    "logo": "/assets/posters/movie2.jpg",
+    "status": "available",
+    "streamURL": {
+      "fullscreen": "https://www.youtube.com/watch?v=WHXq62VCaCM",
+      "preview": "/assets/videos/preview.mp4"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Superman",
+    "logo": "/assets/posters/movie6.jpg",
+    "status": "available",
+    "streamURL": {
+      "fullscreen": "https://www.youtube.com/watch?v=Ox8ZLF6cGM0",
+      "preview": "/assets/videos/preview.mp4"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Barbie",
+    "logo": "/assets/posters/movie4.jpg",
+    "status": "available",
+    "streamURL": {
+      "fullscreen": "https://www.youtube.com/watch?v=9JU8SEt6R7Q",
+      "preview": "/assets/videos/preview.mp4"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Hell Boy",
+    "logo": "/assets/posters/movie5.jpg",
+    "status": "available",
+    "streamURL": {
+      "fullscreen": "https://www.youtube.com/watch?v=kA9vtXbbhVs",
+      "preview": "/assets/videos/preview.mp4"
+    }
+  },
+
+  {
+    "id": 7,
+    "name": "Spiderman 2",
+    "logo": "/assets/posters/movie7.jpg",
+    "status": "available",
+    "streamURL": {
+      "fullscreen": "https://www.youtube.com/watch?v=1s9Yln0YwCw",
+      "preview": "/assets/videos/preview.mp4"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Top Gun: Maverick",
+    "logo": "/assets/posters/movie8.jpg",
+    "status": "available",
+    "streamURL": {
+      "fullscreen": "https://www.youtube.com/watch?v=giXco2jaZ_4",
+      "preview": "/assets/videos/preview.mp4"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Alien",
+    "logo": "/assets/posters/movie3.jpg",
+    "status": "available",
+    "streamURL": {
+      "fullscreen": "https://www.youtube.com/watch?v=ZbsiKjVAV28",
+      "preview": "/assets/videos/preview.mp4"
+    }
+  }
+
+]
