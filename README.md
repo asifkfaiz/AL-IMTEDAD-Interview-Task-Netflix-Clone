@@ -1,8 +1,8 @@
 🎬 Netflix Web App Prototype
-<div align="center"> <a href="https://github.com/asifkfaiz/AL-IMTEDAD-Interview-Task-Netflix-Clone"> <img src="frontend/public/netflixlogo.svg" alt="Logo" width="100"> </a> <p align="center"> A responsive Netflix-style web app prototype built for an interview assessment. <br/> Built with React (frontend) and Node.js/Express (backend), this prototype demonstrates API integration, responsive UI, and dynamic media playback. <br/> <br/> <a href="#about-the-project:"><strong>Explore Features »</strong></a> <br/> <br/> </p> </div>
+<div align="center"> <a href="https://github.com/asifkfaiz/AL-IMTEDAD-Interview-Task-Netflix-Clone"> <img src="frontend/public/netflixlogo.svg" alt="Logo" width="100"> </a> <p align="center"> A responsive Netflix-style web app prototype built for an interview assessment. <br/> Built with React (frontend) and Node.js/Express (backend), this prototype demonstrates API integration, responsive UI, and dynamic media playback. <br/> <br/> <a href="#about-the-project"><strong>Explore Features »</strong></a> <br/> <br/> </p> </div>
 
 
-## <strong>About the Project:</strong>
+## <strong>About the Project</strong>
 
 <img src="frontend/public/screenshot.png" alt="Logo" width="500">
 
