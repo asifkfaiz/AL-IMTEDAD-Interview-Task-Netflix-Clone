@@ -1,9 +1,9 @@
-import Navbar from "../Navbar";
-import MovieCard from "../MovieCard";
-import { getMovies } from "../../services/movieService";
+import Navbar from "../components/Navbar";
+import MovieCard from "../components/MovieCard";
+import { getMovies } from "../services/movieService";
 import { useEffect, useState } from "react";
 import "../styles/home.css";
-import Banner from "../Banner";
+import Banner from "../components/Banner";
 
 function Home() {
   const [movies, setMovies] = useState([]);
