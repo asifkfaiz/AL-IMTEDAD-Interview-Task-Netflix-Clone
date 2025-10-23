@@ -1,8 +1,9 @@
-import Navbar from "../components/Navbar";
-import MovieCard from "../components/MovieCard";
-import { getMovies } from "../services/movieService";
+import Navbar from "../Navbar";
+import MovieCard from "../MovieCard";
+import { getMovies } from "../../services/movieService";
 import { useEffect, useState } from "react";
 import "../styles/home.css";
+import Banner from "../Banner";
 
 function Home() {
   const [movies, setMovies] = useState([]);
@@ -26,11 +27,12 @@ function Home() {
   return (
     <div className="home-container">
       <Navbar />
+      <Banner/>
       {error && <div className="error-message">{error}</div>}
-      <div className="movies-sep"></div>
+      
       <div className="movies-separator"></div>
       <h1 className="movies-heading">Watch Now:</h1>
-      <div className="movies-separator"></div>
+      
       <div className="movie-grid">
         {movies.length > 0 ? (
           movies.map((movie) => (
